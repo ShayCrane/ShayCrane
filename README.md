@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShayCrane
-- 👀 I'm in a cybersecurity tech bootcamp
-- 🌱 I’m currently learning cybersecurity and ops fundamentals
-- 💞️ I’m looking to collaborate on future projects
+- 👀 I'm a cybersecurity professional
+- 🌱 I will complete my cybersecurity engineering certificate at the end of 2022
+- 💞️ I’m looking to learn more and to collaborate on future projects
 - 📫 How to reach me [linkedin.com](https://www.linkedin.com/in/shaycrane/), www.shaycrane.com, shay@shaycrane.com
 
 <!---
