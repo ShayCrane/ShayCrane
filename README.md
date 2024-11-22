@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShayCrane
+- 👋 Hi, I’m @ShayC
 - 👀 I'm a college instructor of Cybersecurity
 - 🌱 Credentialed in IT Ops and Cybersecurity Engineering; Field experience with Amazon SDO (Corporate)
 - 💞️ CompTIA Security+, RedHat Academy Program Educator
