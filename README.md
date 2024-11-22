@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShayCrane
-- 👀 I'm a cybersecurity professional
-- 🌱 I graduated with a certificate in OpsSec & Cybersecurity Engineering in 2022 
-- 💞️ CompTIA Security+, ITF+ 
+- 👀 I'm a college instructor of Cybersecurity
+- 🌱 Credentialed in IT Ops and Cybersecurity Engineering; Field experience with Amazon SDO (Corporate)
+- 💞️ CompTIA Security+, RedHat Academy Program Educator
 - 📫 How to reach me: [LinkedIn.com](https://www.linkedin.com/in/shaycrane/)
 - :radio: Check out my public cybersecurity news [rss feed](www.shaycrane.com)
 
