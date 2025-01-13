@@ -3,7 +3,7 @@
 - 🌱 Credentialed in IT Ops and Cybersecurity Engineering; Field experience with Amazon SDO (Corporate)
 - 💞️ CompTIA Security+, RedHat Academy Program Educator
 - 📫 How to reach me: [LinkedIn.com](https://www.linkedin.com/in/shaycrane/)
-- :radio: Check out my public cybersecurity news [rss feed](www.shaycrane.com)
+- :radio: Check out my public cybersecurity news [rss feed](https://www.shaycrane.com)
 
 <!---
 ShayCrane/ShayCrane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
