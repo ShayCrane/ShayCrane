@@ -4,40 +4,22 @@
 -->
 
 
-# Shay Crane
-
-## IT Operations & Cybersecurity
-
-I specialize in ITOPS and cybersecurity. I teach various technology courses at a local college. Programs include: Cybersecurity, IT, and Software Development.  
+<!-- Shay Crane
+-->
+I'm a **Cybersecurity Analyst** and an **adjunct Cybersecurity Instructor** at my local technical college. 
 
 ---
 
 ### Skills & Technologies
 
-- 💞️ CompTIA Security+
-- RedHat Academy Program Educator
-- **Scripting & Automation:** Bash, Python
-- **Cloud Platforms:** Azure
+- **Cybersecurity:** CSAP | CySA+ | Security+
+- **Scripting & Automation:** Bash | Python | RedHat Academy Program Educator
+- **Cloud Platforms:** Azure | AWS
 - **Database Administration:** SQL
-- **Cybersecurity:** Threat detection, vulnerability management, compliance
-- **and much more**...
 
----
 
-### Professional Interests
 
-- Vulnerability management
-- Log analysis and threat detection
-- Technical documentation and process improvement
-- Ethical hacking
-- Bug bounties / capture the flag
 
----
-
-### Contact
-
-- 📫 How to reach me: [Connect with Shay on LinkedIn](https://www.linkedin.com/in/shaycrane/)
-- :radio: For the latest news on cyber attacks in the US, [click here to navigate to my website](https://www.shaycrane.com)
 
 <!--
 **ShayCrane/ShayCrane** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile!
